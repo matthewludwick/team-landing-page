@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karim Dosso | Software Architecture & Network Admin</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="card">
+        <img src="./images/avatar.png" alt="Karim Dosso - Software Architect" class="avatar">
+        <h1 class="name">Karim Dosso</h1>
+        <p class="role">Software Architect & Network Administrator</p>
+        <p class="username">karim.dev@email.com</p>
+        
+        <div class="bio-section">
+            <p class="bio">
+                <strong>Renaissance Man & Systems Expert.</strong> <br>
+                Recording Engineer, Entrepreneur, and Archivist. Currently pursuing a degree at North Seattle College to fulfill my mission of keeping people connected.
+            </p>
+        </div>
+
+        <div class="credentials">
+            <h4>Certifications & Expertise</h4>
+            <ul>
+                <li>Security+ & Pen Testing</li>
+                <li>Network Essentials (Network Admin Path)</li>
+                <li>Python & JavaScript Development</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
