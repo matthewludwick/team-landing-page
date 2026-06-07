@@ -52,6 +52,7 @@ Landing Page
 Clicks for profiles
 
 Nice to Have:
+A PRIVACY/TERMS OF USE PAGE-SHARED DATA COLLECTION
 Great Design
 Links to LinkedIn
 General about me page for team/org
@@ -62,9 +63,11 @@ Integrated video meetings
 Login system
 Health page
 Payment features
+SOUNDTRACK 
+ACCESSIBILITY FEATURES
 
 
-Assumptions 
+Assumptions OR 
 > Assuming folks have access to the website/landing page.
 > We assume the client wants a simple and easy to use interface.
 > We assume no login or user authentication is required.
